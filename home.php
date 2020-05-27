@@ -136,6 +136,8 @@
     <img src="img/Groupe 1983.png" alt="" class="cadre text-center">
     <p class="para_partie">هنا دن <br> أتينا لنقدم مالم يقدم<br>  في سوق الإنتاج بالمملكة <br>  نحن من هذه البيئة <br> و نفهمها جيدا  <br> وننتج أعمالا بصرية إبداعية<br>    تلهم العالم</p>
   </div>
+    <img src="img/Groupe 2240.png" alt="" class="img_point  blue_partie">
+
     </div>
 </section>
 
